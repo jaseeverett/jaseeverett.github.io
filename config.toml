@@ -11,6 +11,8 @@ title = "Dr Jason Everett"
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
 
+publishDir = ""
+
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
 copyright = "&copy; 2019 Jason D. Everett; all rights reserved."
