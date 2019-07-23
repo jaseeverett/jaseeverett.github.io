@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rowan Trebilco on Dr Jason Everett</title>
+    <link>/authors/rowan-trebilco/</link>
+    <description>Recent content in Rowan Trebilco on Dr Jason Everett</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jason D. Everett; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/rowan-trebilco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrated modelling to support decision-making for marine social–ecological systems in Australia</title>
+      <link>/publication/melbourne-thomas-2017-ku/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/melbourne-thomas-2017-ku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Bacteria to Whales: Using Functional Size Spectra to Model Marine Ecosystems</title>
+      <link>/publication/blanchard-2017-vd/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/blanchard-2017-vd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
