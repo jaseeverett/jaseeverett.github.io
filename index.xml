@@ -22,6 +22,33 @@
     </item>
     
     <item>
+      <title>My Project Name</title>
+      <link>/project/global_zooplankton_distribution/</link>
+      <pubDate>Tue, 23 Jul 2019 17:10:44 +1000</pubDate>
+      
+      <guid>/project/global_zooplankton_distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Project Name</title>
+      <link>/project/mapping_zooplankton_biomass/</link>
+      <pubDate>Tue, 23 Jul 2019 17:10:44 +1000</pubDate>
+      
+      <guid>/project/mapping_zooplankton_biomass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Project Name</title>
+      <link>/project/my-project-name/</link>
+      <pubDate>Tue, 23 Jul 2019 17:10:44 +1000</pubDate>
+      
+      <guid>/project/my-project-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pelagic citizen science data reveal declines of seabirds off south-eastern Australia</title>
       <link>/publication/gorta-2019-gs/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -220,7 +247,7 @@
     </item>
     
     <item>
-      <title>Demography and interannual variability of salp swarms (Thalia democratica)</title>
+      <title>Demography and interannual variability of salp swarms (*Thalia democratica*)</title>
       <link>/publication/henschke-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
