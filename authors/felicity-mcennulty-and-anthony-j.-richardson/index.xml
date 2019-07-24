@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Claire Davies on Dr Jason Everett</title>
-    <link>/authors/claire-davies/</link>
-    <description>Recent content in Claire Davies on Dr Jason Everett</description>
+    <title>Felicity McEnnulty and Anthony J. Richardson on Dr Jason Everett</title>
+    <link>/authors/felicity-mcennulty-and-anthony-j.-richardson/</link>
+    <description>Recent content in Felicity McEnnulty and Anthony J. Richardson on Dr Jason Everett</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Jason D. Everett; all rights reserved.</copyright>
     <lastBuildDate>Tue, 23 Jul 2019 17:10:44 +1000</lastBuildDate>
     
-	    <atom:link href="/authors/claire-davies/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/felicity-mcennulty-and-anthony-j.-richardson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,15 +24,6 @@
 
 &lt;p&gt;The end goal is for these maps to be provided to the community as model-ready data products. The Australian Zooplankton Biomass Database and associated modelled-products will be invaluable for global change studies, research assessing trophic level linkages, and for initialising and assessing biogeochemical and ecosystem models of lower trophic levels.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Modeling What We Sample and Sampling What We Model: Challenges for Zooplankton Model Assessment</title>
-      <link>/publication/everett-2017-dg/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/everett-2017-dg/</guid>
-      <description></description>
     </item>
     
   </channel>

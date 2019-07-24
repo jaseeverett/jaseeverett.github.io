@@ -10,7 +10,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-07-23T16:52:43+10:00</lastmod>
+    <lastmod>2019-07-23T17:10:44+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,24 +56,54 @@
   </url>
   
   <url>
-    <loc>/project/global_zooplankton_distribution/</loc>
-    <lastmod>2019-07-23T17:10:44+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/mapping_zooplankton_biomass/</loc>
     <lastmod>2019-07-23T17:10:44+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/my-project-name/</loc>
+    <loc>/authors/claire-davies/</loc>
     <lastmod>2019-07-23T17:10:44+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/felicity-mcennulty-and-anthony-j.-richardson/</loc>
+    <lastmod>2019-07-23T17:10:44+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/iain-m.-suthers-and-anthony-j.-richardson/</loc>
+    <lastmod>2019-07-23T17:10:44+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jason-d.-everett/</loc>
+    <lastmod>2019-07-23T17:10:44+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jason-d.-everett-anthony-j.-richardson/</loc>
+    <lastmod>2019-07-23T17:10:44+10:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/project/</loc>
     <lastmod>2019-07-23T17:10:44+10:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/global_zooplankton_distribution/</loc>
+    <lastmod>2019-07-23T17:10:44+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/planktonicsizespectra/</loc>
+    <lastmod>2019-07-23T17:10:44+10:00</lastmod>
   </url>
   
   <url>
@@ -616,12 +646,6 @@
   
   <url>
     <loc>/authors/chris-griffiths/</loc>
-    <lastmod>2019-07-23T16:52:43+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/claire-davies/</loc>
     <lastmod>2019-07-23T16:52:43+10:00</lastmod>
     <priority>0</priority>
   </url>
