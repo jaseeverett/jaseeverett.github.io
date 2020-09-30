@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia L. Blanchard | Academic</title>
+    <link>/author/julia-l.-blanchard/</link>
+      <atom:link href="/author/julia-l.-blanchard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julia L. Blanchard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jason D. Everett; all rights reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Julia L. Blanchard</title>
+      <link>/author/julia-l.-blanchard/</link>
+    </image>
+    
+    <item>
+      <title>A functional size-spectrum model of the global marine ecosystem that resolves zooplankton composition</title>
+      <link>/publication/2020-01-01_heneghan.2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_heneghan.2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional traits explain trophic allometries of cephalopods</title>
+      <link>/publication/2020-01-01_murphy.2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_murphy.2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Bacteria to Whales: Using Functional Size Spectra to Model Marine Ecosystems</title>
+      <link>/publication/2017-01-01_blanchard.20172wa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_blanchard.20172wa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zooplankton Are Not Fish: Improving Zooplankton Realism in Size-Spectrum Models Mediates Energy Transfer in Food Webs</title>
+      <link>/publication/2016-01-01_heneghan.2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_heneghan.2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

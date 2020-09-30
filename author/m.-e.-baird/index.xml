@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. E. Baird | Academic</title>
+    <link>/author/m.-e.-baird/</link>
+      <atom:link href="/author/m.-e.-baird/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. E. Baird</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jason D. Everett; all rights reserved.</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. E. Baird</title>
+      <link>/author/m.-e.-baird/</link>
+    </image>
+    
+    <item>
+      <title>Cyclonic entrainment of preconditioned shelf waters into a frontal eddy</title>
+      <link>/publication/2015-01-01_everett.2015oue/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-01-01_everett.2015oue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An avenue of eddies: Quantifying the biophysical properties of mesoscale eddies in the Tasman Sea</title>
+      <link>/publication/2012-01-01_everett.2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-01-01_everett.2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three‐dimensional structure of a swarm of the salp Thalia democratica within a cold‐core eddy off southeast Australia</title>
+      <link>/publication/2011-01-01_everett.2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-01-01_everett.2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alistair J. Hobday | Academic</title>
+    <link>/author/alistair-j.-hobday/</link>
+      <atom:link href="/author/alistair-j.-hobday/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alistair J. Hobday</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jason D. Everett; all rights reserved.</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alistair J. Hobday</title>
+      <link>/author/alistair-j.-hobday/</link>
+    </image>
+    
+    <item>
+      <title>Seasonal forecasting of dolphinfish distribution in eastern Australia to aid recreational fishers and managers</title>
+      <link>/publication/2017-01-01_brodie.2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_brodie.2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the oceanic habitats of two pelagic species using recreational fisheries data</title>
+      <link>/publication/2015-01-01_brodie.2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-01-01_brodie.2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The strengthening East Australian Current, its eddies and biological effects — an introduction and overview</title>
+      <link>/publication/2011-01-01_suthers.2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-01-01_suthers.2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

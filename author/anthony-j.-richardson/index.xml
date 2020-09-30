@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony J. Richardson | Academic</title>
+    <link>/author/anthony-j.-richardson/</link>
+      <atom:link href="/author/anthony-j.-richardson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anthony J. Richardson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jason D. Everett; all rights reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Anthony J. Richardson</title>
+      <link>/author/anthony-j.-richardson/</link>
+    </image>
+    
+    <item>
+      <title>A database of zooplankton biomass in Australian marine waters</title>
+      <link>/publication/2020-01-01_mcennulty.2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_mcennulty.2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A functional size-spectrum model of the global marine ecosystem that resolves zooplankton composition</title>
+      <link>/publication/2020-01-01_heneghan.2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_heneghan.2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A database of marine larval fish assemblages in Australian temperate and subtropical waters</title>
+      <link>/publication/2018-01-01_smith.2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-01-01_smith.2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Bacteria to Whales: Using Functional Size Spectra to Model Marine Ecosystems</title>
+      <link>/publication/2017-01-01_blanchard.20172wa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_blanchard.20172wa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling What We Sample and Sampling What We Model: Challenges for Zooplankton Model Assessment</title>
+      <link>/publication/2017-01-01_everett.2017ui9/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_everett.2017ui9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking the Role of Salps in the Ocean</title>
+      <link>/publication/2016-01-01_henschke.2016xug/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_henschke.2016xug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zooplankton Are Not Fish: Improving Zooplankton Realism in Size-Spectrum Models Mediates Energy Transfer in Food Webs</title>
+      <link>/publication/2016-01-01_heneghan.2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_heneghan.2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demography and interannual variability of salp swarms (Thalia democratica)</title>
+      <link>/publication/2014-01-01_henschke.2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_henschke.2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

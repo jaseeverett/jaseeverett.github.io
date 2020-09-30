@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iain Suthers | Academic</title>
+    <link>/author/iain-suthers/</link>
+      <atom:link href="/author/iain-suthers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iain Suthers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jason D. Everett; all rights reserved.</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Iain Suthers</title>
+      <link>/author/iain-suthers/</link>
+    </image>
+    
+    <item>
+      <title>Mean hydrography on the continental shelf from 26 repeat glider deployments along Southeastern Australia</title>
+      <link>/publication/2016-01-01_schaeffer.2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_schaeffer.2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
