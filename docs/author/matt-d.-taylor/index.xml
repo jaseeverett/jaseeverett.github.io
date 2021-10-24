@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt D. Taylor | Dr   Jason D. Everett</title>
+    <link>/author/matt-d.-taylor/</link>
+      <atom:link href="/author/matt-d.-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matt D. Taylor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Jason D. Everett; all rights reserved.</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue13ec9768477f6aaf9b00b431f1b1817_1609_512x512_fill_lanczos_center_3.png</url>
+      <title>Matt D. Taylor</title>
+      <link>/author/matt-d.-taylor/</link>
+    </image>
+    
+    <item>
+      <title>Modelling the oceanic habitats of two pelagic species using recreational fisheries data</title>
+      <link>/publication/2015-01-01_brodie.2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-01-01_brodie.2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

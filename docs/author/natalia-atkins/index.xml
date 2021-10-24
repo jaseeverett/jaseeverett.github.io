@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natalia Atkins | Dr   Jason D. Everett</title>
+    <link>/author/natalia-atkins/</link>
+      <atom:link href="/author/natalia-atkins/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natalia Atkins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Jason D. Everett; all rights reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue13ec9768477f6aaf9b00b431f1b1817_1609_512x512_fill_lanczos_center_3.png</url>
+      <title>Natalia Atkins</title>
+      <link>/author/natalia-atkins/</link>
+    </image>
+    
+    <item>
+      <title>A database of zooplankton biomass in Australian marine waters</title>
+      <link>/publication/2020-01-01_mcennulty.2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_mcennulty.2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

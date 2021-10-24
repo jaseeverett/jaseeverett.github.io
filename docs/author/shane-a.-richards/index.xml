@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shane A. Richards | Dr   Jason D. Everett</title>
+    <link>/author/shane-a.-richards/</link>
+      <atom:link href="/author/shane-a.-richards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shane A. Richards</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Jason D. Everett; all rights reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue13ec9768477f6aaf9b00b431f1b1817_1609_512x512_fill_lanczos_center_3.png</url>
+      <title>Shane A. Richards</title>
+      <link>/author/shane-a.-richards/</link>
+    </image>
+    
+    <item>
+      <title>Functional traits explain trophic allometries of cephalopods</title>
+      <link>/publication/2020-01-01_murphy.2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_murphy.2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

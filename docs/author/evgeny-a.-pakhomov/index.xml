@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evgeny A. Pakhomov | Dr   Jason D. Everett</title>
+    <link>/author/evgeny-a.-pakhomov/</link>
+      <atom:link href="/author/evgeny-a.-pakhomov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evgeny A. Pakhomov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Jason D. Everett; all rights reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue13ec9768477f6aaf9b00b431f1b1817_1609_512x512_fill_lanczos_center_3.png</url>
+      <title>Evgeny A. Pakhomov</title>
+      <link>/author/evgeny-a.-pakhomov/</link>
+    </image>
+    
+    <item>
+      <title>Mesozooplankton and Micronekton Active Carbon Transport in Contrasting Eddies</title>
+      <link>/publication/2020-01-01_kwong.2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_kwong.2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Vertical Migrations of Pyrosoma atlanticum Play an Important Role in Active Carbon Transport</title>
+      <link>/publication/2019-01-01_henschke.2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_henschke.2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
