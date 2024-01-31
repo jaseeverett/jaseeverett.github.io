@@ -1,66 +1,17 @@
 [
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+    "text": "Human threats – including fishing, climate change, habitat destruction, pollution, and invasive species – are leading to declining abundance of many marine species. To mitigate impacts of these threats on biodiversity, marine protected areas – national parks in the ocean – are being created. As there is a global push to increase the marine protected area network coverage from 8% to potentially 20% or even 30% in the next decade, developing the science to underpin where to place these reserves is critical and timely.\nA current focus of our research is thus how to design robust climate-smart marine protected areas that conserve biodiversity, protect against climate change, retain biodiversity as the climate warms, ensure connectivity, minimise conflict with fishing, whilst considering the 3-D nature of the ocean. This is a tough task! It requires extensive computational expertise and infrastructure. Our work involves mapping global biodiversity and developing new approaches to the design of climate-smart marine protected area networks using state-of-the-art statistical and computational approaches on super-computers."
   },
   {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
+    "objectID": "research/index.html#climate-smart-spatial-planning.",
+    "href": "research/index.html#climate-smart-spatial-planning.",
+    "title": "Research",
     "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
-    "title": "Projects",
-    "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dr Jason D. Everett",
-    "section": "",
-    "text": "Personal GitHub\n  \n  \n    \n     Lab GitHub\n  \n  \n    \n     Publications\n  \n  \n    \n     \n  \n\n      \n\n    \n    \n  \n\n\nI am a biological oceanographer and data scientist. I work on understanding how oceanographic processes structure global pelagic food webs, designing climate-smart marine protected areas and investigating the impact of climate-change on marine ecosystem function. I enjoy working with model output, including oceanographic, climate and size-spectra, and collating large observational datasets to analyse.\nRecently I have been building R-packages and R-shiny visualisation tools and applying novel spatial planning methods to inform marine spatial management. I am currently working on tools for on-the-ground deployment in the Weddell Sea (Antarctica) and various island nations of the Pacific, Indian and Atlantic Oceans.\nFind out more about my Research, and the Tools we have released on these pages.\nCurrently, I’m a Senior Research Fellow in the Mathematical Marine Ecology Research Laboratory at The University of Queensland and a Visting Scientist at The University of New South Wales and CSIRO Environment\nGet in touch."
-  },
-  {
-    "objectID": "tools/index.html#planktonr",
-    "href": "tools/index.html#planktonr",
-    "title": "Tools",
-    "section": "planktonr",
-    "text": "planktonr\n\n\nplanktonr is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS)."
-  },
-  {
-    "objectID": "tools/index.html#spatial-planning-in-the-weddell-sea",
-    "href": "tools/index.html#spatial-planning-in-the-weddell-sea",
-    "title": "Tools",
-    "section": "Spatial Planning in the Weddell Sea",
-    "text": "Spatial Planning in the Weddell Sea"
-  },
-  {
-    "objectID": "tools/index.html#spatialplanr",
-    "href": "tools/index.html#spatialplanr",
-    "title": "Tools",
-    "section": "spatialplanr",
-    "text": "spatialplanr\n\n\n \n\nThe spatialplanr package is designed to assist students and staff in the Mathematical Marine Ecology Lab at the University of Queensland. It may be useful for others as well. This code has been written to simplify the process for running a prioritizr analysis on a given region and use the workflows and data of the MME Lab."
+    "text": "Human threats – including fishing, climate change, habitat destruction, pollution, and invasive species – are leading to declining abundance of many marine species. To mitigate impacts of these threats on biodiversity, marine protected areas – national parks in the ocean – are being created. As there is a global push to increase the marine protected area network coverage from 8% to potentially 20% or even 30% in the next decade, developing the science to underpin where to place these reserves is critical and timely.\nA current focus of our research is thus how to design robust climate-smart marine protected areas that conserve biodiversity, protect against climate change, retain biodiversity as the climate warms, ensure connectivity, minimise conflict with fishing, whilst considering the 3-D nature of the ocean. This is a tough task! It requires extensive computational expertise and infrastructure. Our work involves mapping global biodiversity and developing new approaches to the design of climate-smart marine protected area networks using state-of-the-art statistical and computational approaches on super-computers."
   },
   {
     "objectID": "research/index.html#zooplankton-size-spectra",
@@ -77,11 +28,11 @@
     "text": "Zooplankton Energy Transfer Efficiency\nWe are generating maps of broad taxonomic groups of zooplankton (Copepods, Chaetognaths, Euphausiids, Larvaceans, Salps, Jellyfish). These empirical data will be used in conjunction with a zooplankton-resolved size-spectra model in order to quantify the global energy transfer efficiency from phytoplankton to fish."
   },
   {
-    "objectID": "tools/index.html#a-title",
-    "href": "tools/index.html#a-title",
-    "title": "Tools",
-    "section": "A title",
-    "text": "A title\n\n\n \n\nplanktonr is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS). |"
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Dr Jason D. Everett",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2016-present George Cushen\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
     "objectID": "tools/index.html",
@@ -98,24 +49,17 @@
     "text": "The Biological Ocean Observer is an R-Shiny website that integrates, analyses and visualises data collected from Integrated Marine Observing System (IMOS) platforms around Australia including the network of National Reference Stations, Continuous Plankton Recorders, Ships of Opportunity and coastal monitoring sites. The platform quickly allows the user to explore temporal and seasonal trends through plots for phytoplankton, zooplankton, larval fish and microbial data. In addition, the user can plot physical data collected at the National Reference Stations including biogeochemistry, CTD and nutrient parameters. The platform is designed to be used by a broad range of stakeholders, including researchers, natural resource managers, policy makers, educators, students and the general public."
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "Human threats – including fishing, climate change, habitat destruction, pollution, and invasive species – are leading to declining abundance of many marine species. To mitigate impacts of these threats on biodiversity, marine protected areas – national parks in the ocean – are being created. As there is a global push to increase the marine protected area network coverage from 8% to potentially 20% or even 30% in the next decade, developing the science to underpin where to place these reserves is critical and timely.\nA current focus of our research is thus how to design robust climate-smart marine protected areas that conserve biodiversity, protect against climate change, retain biodiversity as the climate warms, ensure connectivity, minimise conflict with fishing, whilst considering the 3-D nature of the ocean. This is a tough task! It requires extensive computational expertise and infrastructure. Our work involves mapping global biodiversity and developing new approaches to the design of climate-smart marine protected area networks using state-of-the-art statistical and computational approaches on super-computers."
+    "objectID": "tools/index.html#planktonr",
+    "href": "tools/index.html#planktonr",
+    "title": "Tools",
+    "section": "planktonr",
+    "text": "planktonr\n\n\nplanktonr is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS)."
   },
   {
-    "objectID": "research/index.html#climate-smart-spatial-planning.",
-    "href": "research/index.html#climate-smart-spatial-planning.",
-    "title": "Research",
-    "section": "",
-    "text": "Human threats – including fishing, climate change, habitat destruction, pollution, and invasive species – are leading to declining abundance of many marine species. To mitigate impacts of these threats on biodiversity, marine protected areas – national parks in the ocean – are being created. As there is a global push to increase the marine protected area network coverage from 8% to potentially 20% or even 30% in the next decade, developing the science to underpin where to place these reserves is critical and timely.\nA current focus of our research is thus how to design robust climate-smart marine protected areas that conserve biodiversity, protect against climate change, retain biodiversity as the climate warms, ensure connectivity, minimise conflict with fishing, whilst considering the 3-D nature of the ocean. This is a tough task! It requires extensive computational expertise and infrastructure. Our work involves mapping global biodiversity and developing new approaches to the design of climate-smart marine protected area networks using state-of-the-art statistical and computational approaches on super-computers."
-  },
-  {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Dr Jason D. Everett",
-    "section": "",
-    "text": "MIT License\nCopyright (c) 2016-present George Cushen\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    "objectID": "tools/index.html#spatialplanr",
+    "href": "tools/index.html#spatialplanr",
+    "title": "Tools",
+    "section": "spatialplanr",
+    "text": "spatialplanr\n\n\n \n\nThe spatialplanr package is designed to assist students and staff in the Mathematical Marine Ecology Lab at the University of Queensland. It may be useful for others as well. This code has been written to simplify the process for running a prioritizr analysis on a given region and use the workflows and data of the MME Lab."
   }
 ]
