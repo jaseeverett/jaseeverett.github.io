@@ -62,8 +62,12 @@ format:
   html:
     fontsize: 1.1em
     theme:
-      - pulse
-      - html/styles.scss
+      # - pulse
+      # - html/styles.scss # Use pulse and styles.scss together for original site
+      # - lux
+      # - flatly
+      # - sandstone
+      - lumen
     toc: false
     code-link: true
     anchor-sections: true
