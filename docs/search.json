@@ -2,28 +2,28 @@
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
-    "title": "Research",
+    "title": "Research Topics",
     "section": "",
-    "text": "Human threats – including fishing, climate change, habitat destruction, pollution, and invasive species – are leading to declining abundance of many marine species. To mitigate impacts of these threats on biodiversity, marine protected areas – national parks in the ocean – are being created. As there is a global push to increase the marine protected area network coverage from 8% to potentially 20% or even 30% in the next decade, developing the science to underpin where to place these reserves is critical and timely.\nA current focus of our research is thus how to design robust climate-smart marine protected areas that conserve biodiversity, protect against climate change, retain biodiversity as the climate warms, ensure connectivity, minimise conflict with fishing, whilst considering the 3-D nature of the ocean. This is a tough task! It requires extensive computational expertise and infrastructure. Our work involves mapping global biodiversity and developing new approaches to the design of climate-smart marine protected area networks using state-of-the-art statistical and computational approaches on super-computers."
+    "text": "Human threats – including fishing, climate change, habitat destruction, pollution, and invasive species – are leading to declining abundance of many marine species. To mitigate impacts of these threats on biodiversity, marine protected areas – national parks in the ocean – are being created. As there is a global push to increase the marine protected area network coverage from 8% to potentially 20% or even 30% in the next decade, developing the science to underpin where to place these reserves is critical and timely.\nA current focus of our research is thus how to design robust climate-smart marine protected areas that conserve biodiversity, protect against climate change, retain biodiversity as the climate warms, ensure connectivity, minimise conflict with fishing, whilst considering the 3-D nature of the ocean. This requires extensive computational expertise and infrastructure. Our work involves mapping global biodiversity and developing new approaches to the design of climate-smart marine protected area networks using state-of-the-art statistical and computational approaches."
   },
   {
     "objectID": "research/index.html#climate-smart-spatial-planning.",
     "href": "research/index.html#climate-smart-spatial-planning.",
-    "title": "Research",
+    "title": "Research Topics",
     "section": "",
-    "text": "Human threats – including fishing, climate change, habitat destruction, pollution, and invasive species – are leading to declining abundance of many marine species. To mitigate impacts of these threats on biodiversity, marine protected areas – national parks in the ocean – are being created. As there is a global push to increase the marine protected area network coverage from 8% to potentially 20% or even 30% in the next decade, developing the science to underpin where to place these reserves is critical and timely.\nA current focus of our research is thus how to design robust climate-smart marine protected areas that conserve biodiversity, protect against climate change, retain biodiversity as the climate warms, ensure connectivity, minimise conflict with fishing, whilst considering the 3-D nature of the ocean. This is a tough task! It requires extensive computational expertise and infrastructure. Our work involves mapping global biodiversity and developing new approaches to the design of climate-smart marine protected area networks using state-of-the-art statistical and computational approaches on super-computers."
+    "text": "Human threats – including fishing, climate change, habitat destruction, pollution, and invasive species – are leading to declining abundance of many marine species. To mitigate impacts of these threats on biodiversity, marine protected areas – national parks in the ocean – are being created. As there is a global push to increase the marine protected area network coverage from 8% to potentially 20% or even 30% in the next decade, developing the science to underpin where to place these reserves is critical and timely.\nA current focus of our research is thus how to design robust climate-smart marine protected areas that conserve biodiversity, protect against climate change, retain biodiversity as the climate warms, ensure connectivity, minimise conflict with fishing, whilst considering the 3-D nature of the ocean. This requires extensive computational expertise and infrastructure. Our work involves mapping global biodiversity and developing new approaches to the design of climate-smart marine protected area networks using state-of-the-art statistical and computational approaches."
   },
   {
     "objectID": "research/index.html#zooplankton-size-spectra",
     "href": "research/index.html#zooplankton-size-spectra",
-    "title": "Research",
+    "title": "Research Topics",
     "section": "Zooplankton size-spectra",
     "text": "Zooplankton size-spectra\nBody size has been described as the ‘master trait’, setting the pace of life by dictating processes such as metabolism, respiration, development, movement, and constraining the role of an individual in its food web. In this project, we are collating thousands of observations of zooplankton size, from all over the world, in order to reveal ecological rates and processes not readily apparent from conventional taxonomic methods. This relationship between organism size and vital rates is strongest in plankton systems, where nutrient and light limitation, grazing encounters, and the efficiency of energy transfer between trophic levels are all size dependent"
   },
   {
     "objectID": "research/index.html#zooplankton-energy-transfer-efficiency",
     "href": "research/index.html#zooplankton-energy-transfer-efficiency",
-    "title": "Research",
+    "title": "Research Topics",
     "section": "Zooplankton Energy Transfer Efficiency",
     "text": "Zooplankton Energy Transfer Efficiency\nWe are generating maps of broad taxonomic groups of zooplankton (Copepods, Chaetognaths, Euphausiids, Larvaceans, Salps, Jellyfish). These empirical data will be used in conjunction with a zooplankton-resolved size-spectra model in order to quantify the global energy transfer efficiency from phytoplankton to fish."
   },
@@ -37,29 +37,36 @@
   {
     "objectID": "tools/index.html",
     "href": "tools/index.html",
-    "title": "Tools",
+    "title": "Shiny Applications",
     "section": "",
     "text": "The Biological Ocean Observer is an R-Shiny website that integrates, analyses and visualises data collected from Integrated Marine Observing System (IMOS) platforms around Australia including the network of National Reference Stations, Continuous Plankton Recorders, Ships of Opportunity and coastal monitoring sites. The platform quickly allows the user to explore temporal and seasonal trends through plots for phytoplankton, zooplankton, larval fish and microbial data. In addition, the user can plot physical data collected at the National Reference Stations including biogeochemistry, CTD and nutrient parameters. The platform is designed to be used by a broad range of stakeholders, including researchers, natural resource managers, policy makers, educators, students and the general public."
   },
   {
     "objectID": "tools/index.html#biological-ocean-observer",
     "href": "tools/index.html#biological-ocean-observer",
-    "title": "Tools",
+    "title": "Shiny Applications",
     "section": "",
     "text": "The Biological Ocean Observer is an R-Shiny website that integrates, analyses and visualises data collected from Integrated Marine Observing System (IMOS) platforms around Australia including the network of National Reference Stations, Continuous Plankton Recorders, Ships of Opportunity and coastal monitoring sites. The platform quickly allows the user to explore temporal and seasonal trends through plots for phytoplankton, zooplankton, larval fish and microbial data. In addition, the user can plot physical data collected at the National Reference Stations including biogeochemistry, CTD and nutrient parameters. The platform is designed to be used by a broad range of stakeholders, including researchers, natural resource managers, policy makers, educators, students and the general public."
   },
   {
     "objectID": "tools/index.html#planktonr",
     "href": "tools/index.html#planktonr",
-    "title": "Tools",
+    "title": "Shiny Applications",
     "section": "planktonr",
     "text": "planktonr\n\n\nplanktonr is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS)."
   },
   {
     "objectID": "tools/index.html#spatialplanr",
     "href": "tools/index.html#spatialplanr",
-    "title": "Tools",
+    "title": "Shiny Applications",
     "section": "spatialplanr",
     "text": "spatialplanr\n\n\n \n\nThe spatialplanr package is designed to assist students and staff in the Mathematical Marine Ecology Lab at the University of Queensland. It may be useful for others as well. This code has been written to simplify the process for running a prioritizr analysis on a given region and use the workflows and data of the MME Lab."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Jason D. Everett",
+    "section": "",
+    "text": "Personal GitHub\n  \n  \n    \n     Lab GitHub\n  \n  \n    \n     Publications\n  \n  \n    \n     \n  \n\n      \n\n    \n    \n  \n\n\nI am a biological oceanographer and data scientist. I work on understanding how oceanographic processes structure global pelagic food webs, designing climate-smart marine protected areas and investigating the impact of climate-change on marine ecosystem function. I enjoy working with model output, including oceanographic, climate and size-spectra, and collating large observational datasets to analyse.\nRecently I have been building R-packages and R-shiny visualisation tools and applying novel spatial planning methods to inform marine spatial management. I am currently working on tools for on-the-ground deployment in the Weddell Sea (Antarctica) and various island nations of the Pacific, Indian and Atlantic Oceans.\nFind out more about my Research, and the Tools we have released on these pages.\nCurrently, I’m a Senior Research Fellow in the Mathematical Marine Ecology Research Laboratory at The University of Queensland and a Visiting Scientist at The University of New South Wales and CSIRO Environment"
   }
 ]

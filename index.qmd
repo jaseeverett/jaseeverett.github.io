@@ -34,9 +34,7 @@ Recently I have been building R-packages and R-shiny visualisation tools and app
 
 Find out more about my [Research](research/index.qmd), and the [Tools](tools/index.qmd) we have released on these pages.
 
-Currently, I'm a Senior Research Fellow in the Mathematical Marine Ecology Research Laboratory at [The University of Queensland](https://www.uq.edu.au/) and a Visting Scientist at [The University of New South Wales](https:://www.bees.unsw.edu.au) and [CSIRO Environment](https://www.csiro.au/en/about/people/business-units/environment)
-
-[Get in touch](mailto:DrJasonEverett@gmail.com).
+Currently, I'm a Senior Research Fellow in the Mathematical Marine Ecology Research Laboratory at [The University of Queensland](https://www.uq.edu.au/) and a Visiting Scientist at [The University of New South Wales](https:://www.bees.unsw.edu.au) and [CSIRO Environment](https://www.csiro.au/en/about/people/business-units/environment)
 
 
 
