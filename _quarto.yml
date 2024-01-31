@@ -61,7 +61,7 @@ execute:
 format:
   html:
     fontsize: 1.1em
-    theme:
+    theme: # https://bootswatch.com
       # - pulse
       # - html/styles.scss # Use pulse and styles.scss together for original site
       # - lux
