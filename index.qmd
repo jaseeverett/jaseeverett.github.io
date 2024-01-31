@@ -1,0 +1,42 @@
+---
+title: Dr Jason D. Everett
+description: "Biological Oceanographer and Data Scientist"
+about:
+  template: solana #jolla, trestles, solana, marquee, broadside
+  id: about-block
+  image: "img/website_crop_lr.jpg"
+  image-shape: round
+  links:
+    - icon: github
+      text: Personal GitHub
+      href: https://github.com/jaseeverett
+      target: _blank
+    - icon: github
+      text: Lab GitHub
+      href: https://github.com/MathMarEcol
+      target: _blank
+    - icon: file-earmark-richtext
+      text: Publications
+      href: https://scholar.google.com.au/citations?hl=en&user=3EM7jEcAAAAJ&view_op=list_works&sortby=pubdate
+      target: _blank
+    - icon: envelope
+      aria-label: email
+      href: "mailto:DrJasonEverett@gmail.com"  
+        
+---
+
+::: {#about-block}
+:::
+
+I am a biological oceanographer and data scientist. I work on understanding how oceanographic processes structure global pelagic food webs, designing climate-smart marine protected areas and investigating the impact of climate-change on marine ecosystem function. I enjoy working with model output, including oceanographic, climate and size-spectra, and collating large observational datasets to analyse.
+
+Recently I have been building R-packages and R-shiny visualisation tools and applying novel spatial planning methods to inform marine spatial management. I am currently working on tools for on-the-ground deployment in the Weddell Sea (Antarctica) and various island nations of the Pacific, Indian and Atlantic Oceans.
+
+Find out more about my [Research](research/index.qmd), and the [Tools](tools/index.qmd) we have released on these pages.
+
+Currently, I'm a Senior Research Fellow in the Mathematical Marine Ecology Research Laboratory at [The University of Queensland](https://www.uq.edu.au/) and a Visting Scientist at [The University of New South Wales](https:://www.bees.unsw.edu.au) and [CSIRO Environment](https://www.csiro.au/en/about/people/business-units/environment)
+
+[Get in touch](mailto:DrJasonEverett@gmail.com).
+
+
+
