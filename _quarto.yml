@@ -45,6 +45,9 @@ website:
     left: |
       <span class="faux-block">&#169; 2024 Jason D. Everett</span>
 
+    right: |
+      <span class="faux-block"><a href="https://github.com/jaseeverett/jaseeverett.github.io">View source on GitHub</a></span>
+
 project:
   type: website
   output-dir: docs
