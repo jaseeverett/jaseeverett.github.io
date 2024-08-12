@@ -8,41 +8,36 @@
 
 ::: columns
 ::: {.column width="20%"}
-![BioOceanObserver](../img/BioOceanObserver.png)
-<!-- Dummy Code -->
-:::
-::: {.column width="80%"}
-The [Biological Ocean Observer]("https://shiny.csiro.au/BioOceanObserver/"){target="_blank"} is an R-Shiny website that integrates, analyses and visualises data collected from Integrated Marine Observing System (IMOS) platforms around Australia including the network of National Reference Stations, Continuous Plankton Recorders, Ships of Opportunity and coastal monitoring sites. The platform quickly allows the user to explore temporal and seasonal trends through plots for phytoplankton, zooplankton, larval fish and microbial data. In addition, the user can plot physical data collected at the National Reference Stations including biogeochemistry, CTD and nutrient parameters. The platform is designed to be used by a broad range of stakeholders, including researchers, natural resource managers, policy makers, educators, students and the general public.
-:::
+<img src="../img/BioOceanObserver.png" style="width: 80%; object-fit: contain"/>
 :::
 
+::: {.column width="80%"}
+The [Biological Ocean Observer](https://shiny.csiro.au/BioOceanObserver){target="_blank"} is an R-Shiny website that integrates, analyses and visualises data collected from Integrated Marine Observing System (IMOS) platforms around Australia including the network of National Reference Stations, Continuous Plankton Recorders, Ships of Opportunity and coastal monitoring sites. The platform quickly allows the user to explore temporal and seasonal trends through plots for phytoplankton, zooplankton, larval fish and microbial data. In addition, the user can plot physical data collected at the National Reference Stations including biogeochemistry, CTD and nutrient parameters. The platform is designed to be used by a broad range of stakeholders, including researchers, natural resource managers, policy makers, educators, students and the general public.
+:::
+:::
 
 # r packages
 
-## _planktonr_
-::: columns
-::: {.column width="80%"}
-[_planktonr_]("https://planktonteam.github.io/planktonr/) is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS).
-:::
-::: {.column width="20%"}
-![planktonr](../img/planktonr.png)
-<!-- [_planktonr_]("https://planktonteam.github.io/planktonr/) is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS). | -->
-:::
-:::
-
-
-## _spatialplanr_
+## *planktonr*
 
 ::: columns
-::: {.column width="20%"}
-![spatialplanr](../img/spatialplanr.png)
-<!-- [_planktonr_]("https://planktonteam.github.io/planktonr/) is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS). | -->
-:::
 ::: {.column width="80%"}
-The [_spatialplanr_]("https://mathmarecol.github.io/spatialplanr/){target="_blank"} package is designed to assist students and staff in the Mathematical Marine Ecology Lab at the University of Queensland. It may be useful for others as well. This code has been written to simplify the process for running a prioritizr analysis on a given region and use the workflows and data of the MME Lab.
+[*planktonr*](%22https://planktonteam.github.io/planktonr/) is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS).
+:::
+
+::: {.column width="20%"}
+<img src="../img/planktonr.png" style="width: 80%; object-fit: contain"/>
 :::
 :::
 
+## *spatialplanr*
 
+::: columns
+::: {.column width="20%"}
+<img src="../img/spatialplanr.png" style="width: 80%; object-fit: contain"/>
+:::
 
-
+::: {.column width="80%"}
+The [*spatialplanr*](%22https://mathmarecol.github.io/spatialplanr/){target="_blank"} package is designed to assist students and staff in the Mathematical Marine Ecology Lab at the University of Queensland. It may be useful for others as well. This code has been written to simplify the process for running a prioritizr analysis on a given region and use the workflows and data of the MME Lab.
+:::
+:::

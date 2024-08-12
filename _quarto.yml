@@ -68,6 +68,7 @@ format:
       # - flatly
       # - sandstone
       - lumen
+    page-layout: full
     toc: false
     code-link: true
     anchor-sections: true

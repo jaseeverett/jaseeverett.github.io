@@ -60,7 +60,7 @@
     "href": "tools/index.html#spatialplanr",
     "title": "Shiny Applications",
     "section": "spatialplanr",
-    "text": "spatialplanr\n\n\n \n\nThe spatialplanr package is designed to assist students and staff in the Mathematical Marine Ecology Lab at the University of Queensland. It may be useful for others as well. This code has been written to simplify the process for running a prioritizr analysis on a given region and use the workflows and data of the MME Lab."
+    "text": "spatialplanr\n\n\n\n\nThe spatialplanr package is designed to assist students and staff in the Mathematical Marine Ecology Lab at the University of Queensland. It may be useful for others as well. This code has been written to simplify the process for running a prioritizr analysis on a given region and use the workflows and data of the MME Lab."
   },
   {
     "objectID": "index.html",
