@@ -34,7 +34,9 @@ Recently I have been building R-packages and R-shiny visualisation tools and app
 
 Find out more about my [Research](research/index.qmd), and the [Tools](tools/index.qmd) we have released on these pages.
 
-Currently, I'm a Senior Research Fellow in the Mathematical Marine Ecology Research Laboratory at [The University of Queensland](https://www.uq.edu.au/) and a Visiting Scientist at [The University of New South Wales](https:://www.bees.unsw.edu.au) and [CSIRO Environment](https://www.csiro.au/en/about/people/business-units/environment)
+In conjunction with colleagues at UQ and UniSC, I also teach statistics and datascience in R in February and July each year. For more information, see our [R Workshops @ UQ website](https://mathmarecol.github.io/RWorkshop/){target="_blank"}.
+
+Currently, I'm a Senior Research Fellow in the Mathematical Marine Ecology Research Laboratory at [The University of Queensland](https://www.uq.edu.au/){target="_blank"} and a Visiting Scientist at [The University of New South Wales](https:://www.bees.unsw.edu.au){target="_blank"} and [CSIRO Environment](https://www.csiro.au/en/about/people/business-units/environment){target="_blank"}.
 
 
 
