@@ -8,12 +8,20 @@ about:
   image-shape: round
   links:
     - icon: github
-      text: Personal GitHub
+      text: GitHub
       href: https://github.com/jaseeverett
       target: _blank
-    - icon: github
-      text: Lab GitHub
-      href: https://github.com/MathMarEcol
+    - icon: link-45deg
+      text: Lab Website
+      href: https://mathmarecol.github.io
+      target: _blank
+    - icon: link-45deg
+      text: Spatial Planning @ UQ
+      href: https://spatialplanning.github.io
+      target: _blank
+    - icon: link-45deg
+      text: R Workshops @ UQ
+      href: https://mathmarecol.github.io/RWorkshop/
       target: _blank
     - icon: file-earmark-richtext
       text: Publications
@@ -28,15 +36,29 @@ about:
 ::: {#about-block}
 :::
 
-I am a biological oceanographer and data scientist. I work on understanding how oceanographic processes structure global pelagic food webs, designing climate-smart marine protected areas and investigating the impact of climate-change on marine ecosystem function. I enjoy working with model output, including oceanographic, climate and size-spectra, and collating large observational datasets to analyse.
+I work at the intersection of biological oceanography, data science, and spatial planning, with a core focus on understanding and managing marine ecosystems in a changing climate. I integrate large observational datasets with cutting-edge modeling techniques to address critical questions in marine science.
 
-Recently I have been building R-packages and R-shiny visualisation tools and applying novel spatial planning methods to inform marine spatial management. I am currently working on tools for on-the-ground deployment in the Weddell Sea (Antarctica) and various island nations of the Pacific, Indian and Atlantic Oceans.
+My main research focus applies data science to design climate-smart marine protected areas in order to develop practical conservation solutions. I develop and deploy tools like the [_spatialplanr_](https://spatialplanning.github.io) R-package and the [_shinyplanr_](https://spatialplanning.github.io) tool, both of which aid in running prioritization analyses for marine spatial management. These tools are used globally, from the Weddell Sea to various island nations such as Kosrae in the Federated States of Micronesia, and Vanuatu. My recent publications highlight my contributions to assessing climate risks, improving food web models, and identifying priority areas for marine conservation.
+
+I also have a strong interest in biological oceanography and understanding how oceanographic processes shape global pelagic food webs. I analyze how flow regimes, currents, eddies, and upwelling events influence the biomass, species distribution, and size structure of zooplankton communities, which is crucial for understanding energy transfer through marine food webs. To support this, I develop innovative tools like the [_planktonr_ ](https://planktonteam.github.io/planktonr/) R-package for plankton data analysis and visualization, and the [Biological Ocean Observer](https://shiny.csiro.au/BioOceanObserver/), a Shiny application that integrates, analyzes, and visualizes biological data from Australia's Integrated Marine Observing System (IMOS).
+
+::: {#about-block}
+  .text-center
+  .text-muted
+  .mb-3
+  .mt-3
+  .lead
+  .text-justify
+  .text-wrap
+  .text-break
+  .text-nowrap
+  .text-lowercase
+  .text-uppercase
+  .text-capitalizeBeyond my research, I dedicate myself to sharing knowledge, co-teaching statistics and data science in [R Workshops @ UQ](https://mathmarecol.github.io/RWorkshop/){target="_blank"} in February and July each year.
+
+My comprehensive approach, blending deep biological oceanographic knowledge with advanced data science and spatial planning, positions me at the forefront of marine ecosystem understanding and conservation efforts.
 
 Find out more about my [Research](research/index.qmd), and the [Tools](tools/index.qmd) we have released on these pages.
 
-In conjunction with colleagues at UQ and UniSC, I also teach statistics and datascience in R in February and July each year. For more information, see our [R Workshops @ UQ website](https://mathmarecol.github.io/RWorkshop/){target="_blank"}.
-
 Currently, I'm a Senior Research Fellow in the Mathematical Marine Ecology Research Laboratory at [The University of Queensland](https://www.uq.edu.au/){target="_blank"} and a Visiting Scientist at [The University of New South Wales](https:://www.bees.unsw.edu.au){target="_blank"} and [CSIRO Environment](https://www.csiro.au/en/about/people/business-units/environment){target="_blank"}.
-
-
 
