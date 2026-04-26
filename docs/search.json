@@ -7,32 +7,11 @@
     "text": "GitHub\n  \n  \n    \n     Lab Website\n  \n  \n    \n     Spatial Planning @ UQ\n  \n  \n    \n     R Workshops @ UQ\n  \n  \n    \n     Publications\n  \n  \n    \n     \n  \n\n      \n\n    \n    \n  \n\n\nI work at the intersection of biological oceanography, data science, and spatial planning, with a core focus on understanding and managing marine ecosystems in a changing climate. I integrate large observational datasets with cutting-edge modeling techniques to address critical questions in marine science.\nMy main research focus applies data science to design climate-smart marine protected areas in order to develop practical conservation solutions. I develop and deploy tools like the spatialplanr R-package and the shinyplanr tool, both of which aid in running prioritization analyses for marine spatial management. These tools are used globally, from the Weddell Sea to various island nations such as Kosrae in the Federated States of Micronesia, and Vanuatu. My recent publications highlight my contributions to assessing climate risks, improving food web models, and identifying priority areas for marine conservation.\nI also have a strong interest in biological oceanography and understanding how oceanographic processes shape global pelagic food webs. I analyze how flow regimes, currents, eddies, and upwelling events influence the biomass, species distribution, and size structure of zooplankton communities, which is crucial for understanding energy transfer through marine food webs. To support this, I develop innovative tools like the planktonr R-package for plankton data analysis and visualization, and the Biological Ocean Observer, a Shiny application that integrates, analyzes, and visualizes biological data from Australia’s Integrated Marine Observing System (IMOS).\nBeyond my research, I dedicate myself to sharing knowledge, co-teaching statistics and data science in R Workshops @ UQ in February and July each year.\nMy comprehensive approach, blending deep biological oceanographic knowledge with advanced data science and spatial planning, positions me at the forefront of marine ecosystem understanding and conservation efforts.\nFind out more about my Research, and the Tools we have released on these pages.\nCurrently, I’m a Senior Research Fellow in the Mathematical Marine Ecology Research Laboratory at The University of Queensland and a Visiting Scientist at The University of New South Wales and CSIRO Environment."
   },
   {
-    "objectID": "tools/index.html",
-    "href": "tools/index.html",
-    "title": "Shiny Applications",
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Dr Jason D. Everett",
     "section": "",
-    "text": "The Biological Ocean Observer is an R-Shiny website that integrates, analyses and visualises data collected from Integrated Marine Observing System (IMOS) platforms around Australia including the network of National Reference Stations, Continuous Plankton Recorders, Ships of Opportunity and coastal monitoring sites. The platform quickly allows the user to explore temporal and seasonal trends through plots for phytoplankton, zooplankton, larval fish and microbial data. In addition, the user can plot physical data collected at the National Reference Stations including biogeochemistry, CTD and nutrient parameters. The platform is designed to be used by a broad range of stakeholders, including researchers, natural resource managers, policy makers, educators, students and the general public."
-  },
-  {
-    "objectID": "tools/index.html#biological-ocean-observer",
-    "href": "tools/index.html#biological-ocean-observer",
-    "title": "Shiny Applications",
-    "section": "",
-    "text": "The Biological Ocean Observer is an R-Shiny website that integrates, analyses and visualises data collected from Integrated Marine Observing System (IMOS) platforms around Australia including the network of National Reference Stations, Continuous Plankton Recorders, Ships of Opportunity and coastal monitoring sites. The platform quickly allows the user to explore temporal and seasonal trends through plots for phytoplankton, zooplankton, larval fish and microbial data. In addition, the user can plot physical data collected at the National Reference Stations including biogeochemistry, CTD and nutrient parameters. The platform is designed to be used by a broad range of stakeholders, including researchers, natural resource managers, policy makers, educators, students and the general public."
-  },
-  {
-    "objectID": "tools/index.html#planktonr",
-    "href": "tools/index.html#planktonr",
-    "title": "Shiny Applications",
-    "section": "planktonr",
-    "text": "planktonr\n\n\nplanktonr is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS)."
-  },
-  {
-    "objectID": "tools/index.html#spatialplanr",
-    "href": "tools/index.html#spatialplanr",
-    "title": "Shiny Applications",
-    "section": "spatialplanr",
-    "text": "spatialplanr\n\n\n\n\nThe spatialplanr package is designed to assist students and staff in the Mathematical Marine Ecology Lab at the University of Queensland. It may be useful for others as well. This code has been written to simplify the process for running a prioritizr analysis on a given region and use the workflows and data of the MME Lab."
+    "text": "MIT License\nCopyright (c) 2016-present George Cushen\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
     "objectID": "research/index.html",
@@ -63,10 +42,31 @@
     "text": "Zooplankton Energy Transfer Efficiency\nWe are generating maps of broad taxonomic groups of zooplankton (Copepods, Chaetognaths, Euphausiids, Larvaceans, Salps, Jellyfish). These empirical data will be used in conjunction with a zooplankton-resolved size-spectra model in order to quantify the global energy transfer efficiency from phytoplankton to fish."
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Dr Jason D. Everett",
+    "objectID": "tools/index.html",
+    "href": "tools/index.html",
+    "title": "Shiny Applications",
     "section": "",
-    "text": "MIT License\nCopyright (c) 2016-present George Cushen\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    "text": "The Biological Ocean Observer is an R-Shiny website that integrates, analyses and visualises data collected from Integrated Marine Observing System (IMOS) platforms around Australia including the network of National Reference Stations, Continuous Plankton Recorders, Ships of Opportunity and coastal monitoring sites. The platform quickly allows the user to explore temporal and seasonal trends through plots for phytoplankton, zooplankton, larval fish and microbial data. In addition, the user can plot physical data collected at the National Reference Stations including biogeochemistry, CTD and nutrient parameters. The platform is designed to be used by a broad range of stakeholders, including researchers, natural resource managers, policy makers, educators, students and the general public."
+  },
+  {
+    "objectID": "tools/index.html#biological-ocean-observer",
+    "href": "tools/index.html#biological-ocean-observer",
+    "title": "Shiny Applications",
+    "section": "",
+    "text": "The Biological Ocean Observer is an R-Shiny website that integrates, analyses and visualises data collected from Integrated Marine Observing System (IMOS) platforms around Australia including the network of National Reference Stations, Continuous Plankton Recorders, Ships of Opportunity and coastal monitoring sites. The platform quickly allows the user to explore temporal and seasonal trends through plots for phytoplankton, zooplankton, larval fish and microbial data. In addition, the user can plot physical data collected at the National Reference Stations including biogeochemistry, CTD and nutrient parameters. The platform is designed to be used by a broad range of stakeholders, including researchers, natural resource managers, policy makers, educators, students and the general public."
+  },
+  {
+    "objectID": "tools/index.html#planktonr",
+    "href": "tools/index.html#planktonr",
+    "title": "Shiny Applications",
+    "section": "planktonr",
+    "text": "planktonr\n\n\nplanktonr is an r package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data. Our initial focus will be on plankton data stored on the Australian Ocean Data Network (AODN) and collected by the Integrated Marine Observing System (IMOS)."
+  },
+  {
+    "objectID": "tools/index.html#spatialplanr",
+    "href": "tools/index.html#spatialplanr",
+    "title": "Shiny Applications",
+    "section": "spatialplanr",
+    "text": "spatialplanr\n\n\n\n\nThe spatialplanr package is designed to assist students and staff in the Mathematical Marine Ecology Lab at the University of Queensland. It may be useful for others as well. This code has been written to simplify the process for running a prioritizr analysis on a given region and use the workflows and data of the MME Lab."
   }
 ]

@@ -6,6 +6,7 @@ about:
   id: about-block
   image: "img/website_crop_lr.jpg"
   image-shape: round
+  
   links:
     - icon: github
       text: GitHub
@@ -42,19 +43,7 @@ My main research focus applies data science to design climate-smart marine prote
 
 I also have a strong interest in biological oceanography and understanding how oceanographic processes shape global pelagic food webs. I analyze how flow regimes, currents, eddies, and upwelling events influence the biomass, species distribution, and size structure of zooplankton communities, which is crucial for understanding energy transfer through marine food webs. To support this, I develop innovative tools like the [_planktonr_ ](https://planktonteam.github.io/planktonr/) R-package for plankton data analysis and visualization, and the [Biological Ocean Observer](https://shiny.csiro.au/BioOceanObserver/), a Shiny application that integrates, analyzes, and visualizes biological data from Australia's Integrated Marine Observing System (IMOS).
 
-::: {#about-block}
-  .text-center
-  .text-muted
-  .mb-3
-  .mt-3
-  .lead
-  .text-justify
-  .text-wrap
-  .text-break
-  .text-nowrap
-  .text-lowercase
-  .text-uppercase
-  .text-capitalizeBeyond my research, I dedicate myself to sharing knowledge, co-teaching statistics and data science in [R Workshops @ UQ](https://mathmarecol.github.io/RWorkshop/){target="_blank"} in February and July each year.
+Beyond my research, I dedicate myself to sharing knowledge, co-teaching statistics and data science in [R Workshops @ UQ](https://mathmarecol.github.io/RWorkshop/){target="_blank"} in February and July each year.
 
 My comprehensive approach, blending deep biological oceanographic knowledge with advanced data science and spatial planning, positions me at the forefront of marine ecosystem understanding and conservation efforts.
 

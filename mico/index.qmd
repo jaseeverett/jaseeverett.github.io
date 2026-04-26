@@ -1,0 +1,104 @@
+---
+# title: "index"
+format: 
+  html:
+    page-layout: custom
+---
+
+<!-- Check out the interactive tool below: -->
+
+<!-- <iframe height="1000" width="100%" frameborder="no" src="https://spatialplanning.shinyapps.io/mico_dev/"> </iframe> -->
+<style>
+  /* Remove default Quarto padding/margins for this page */
+  #quarto-content {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .fullscreen-container {
+    position: relative;
+    width: 100%;
+    /* CSS fallback: assume ~60px navbar. JS will correct this. */
+    height: calc(100vh - 60px);
+    background: #f8f9fa;
+    overflow: hidden;
+  }
+
+  .loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 6px solid #f3f3f3;
+    border-top: 6px solid #2ecc71;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 1s linear infinite;
+    z-index: 10;
+  }
+
+  #map-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+    opacity: 0;
+    transition: opacity 0.8s ease-in;
+  }
+
+  @keyframes spin {
+    0% { transform: translate(-50%, -50%) rotate(0deg); }
+    100% { transform: translate(-50%, -50%) rotate(360deg); }
+  }
+</style>
+
+<div class="fullscreen-container">
+  <div id="loader" class="loader"></div>
+  <iframe
+    id="map-iframe"
+    src="https://spatialplanning.shinyapps.io/mico_dev/"
+    onload="hideLoader()">
+  </iframe>
+</div>
+
+<script>
+function setContainerHeight() {
+  var header = document.getElementById('quarto-header') ||
+               document.querySelector('header.navbar') ||
+               document.querySelector('nav.navbar') ||
+               document.querySelector('header');
+  var headerHeight = header ? header.offsetHeight : 0;
+
+  var footer = document.getElementById('quarto-footer') ||
+               document.querySelector('footer');
+  var footerHeight = footer ? footer.offsetHeight : 0;
+
+  var availableHeight = window.innerHeight - headerHeight - footerHeight;
+
+  var container = document.querySelector('.fullscreen-container');
+  var iframe = document.getElementById('map-iframe');
+
+  if (container) {
+    container.style.height = availableHeight + 'px';
+  }
+  // Also set iframe height directly — don't rely solely on height:100% inheritance
+  if (iframe) {
+    iframe.style.height = availableHeight + 'px';
+  }
+}
+
+function hideLoader() {
+  document.getElementById('loader').style.display = 'none';
+  document.getElementById('map-iframe').style.opacity = '1';
+}
+
+// Run immediately, on DOMContentLoaded, and on resize
+setContainerHeight();
+document.addEventListener('DOMContentLoaded', setContainerHeight);
+window.addEventListener('load', setContainerHeight);
+window.addEventListener('resize', setContainerHeight);
+</script>
